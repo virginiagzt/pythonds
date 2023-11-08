@@ -1,4 +1,4 @@
-Rank,Team/NOC,Gold Medal,Silver Medal,Bronze Medal,Total,Rank by Total,NOCCode,Continent
+rank,teamNOC,goldMedal,silverMedal,bronzeMedal,total,rankbyTotal,nOCCode,continent
 1,United States of America,39,41,33,113,1,USA,North America
 2,People's Republic of China,38,32,18,88,2,CHN,Asia
 3,Japan,27,14,17,58,5,JPN,Asia
